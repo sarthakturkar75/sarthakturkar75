@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarthak Turkar.
-- 👀 I’m interested in Cybersecurity, Machine Learning, Linux, Blockchain and Web Development.
+- 👀 I’m interested in Cybersecurity, Linux, Blockchain and Web Development.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
